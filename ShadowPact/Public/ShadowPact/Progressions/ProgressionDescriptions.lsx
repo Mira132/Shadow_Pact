@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Fire and smoke obscure you, granting increased AC."/>
+                    <attribute id="DisplayName" type="FixedString" value="Obscuring Flames"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value="Obscuring_FlamePH"/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="AC"/>
+                    <attribute id="UUID" type="guid" value="f87e5fde-3c7f-4762-a5a8-7f5807554583"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Warlocks attuned to the firey 4th layer of the Nine Hells, Phlegethos are fire resistant."/>
+                    <attribute id="DisplayName" type="FixedString" value="Fire Resistance"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Resistance(Fire, Resistant)"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="4e95aae1-ad36-4441-8d0c-43f891271f29"/>
+                    <attribute id="ProgressionTableId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="AC"/>
+                    <attribute id="UUID" type="guid" value="e8211612-f76d-4120-a420-25483d173564"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Webs are no longer considered difficult terrain and do not hinder your movement."/>
+                    <attribute id="DisplayName" type="FixedString" value="Web Walker"/>
+                    <attribute id="ExactMatch" type="FixedString" value="StatusImmunity(DIFFICULT_TERRAIN)"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="212e59bd-14f1-423a-8c73-6e053c72d3d7"/>
+                    <attribute id="ProgressionTableId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="StatusImmunity"/>
+                    <attribute id="UUID" type="guid" value="0de81d50-a607-498d-bbf8-81249bbae60c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

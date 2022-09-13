@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="0" minor="0" revision="0" build="1"/>
+    <version major="4" minor="0" revision="0" build="49"/>
     <region id="Progressions">
         <node id="root">
             <children>
@@ -12,7 +12,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2);SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,,,,AlwaysPrepared);AddSpells(8f123156-7ae1-4fe0-a6ba-ad1f5e906847)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2);SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="a7767dc5-e6ab-4e05-96fd-f0424256121c"/>
                     <children>
@@ -39,7 +39,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="SHADOW_STRIKE;SHADOW_STRIKE_TOGGLE_PASSIVE;PACT_OF_SHADOWS_TRAINING;UnarmouredDefence_Shadows"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(0c48b785-e964-4898-9897-fba975edbf52,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(0c48b785-e964-4898-9897-fba975edbf52,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a);AddSpells(8f123156-7ae1-4fe0-a6ba-ad1f5e906847)"/>
                     <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
                     <attribute id="UUID" type="guid" value="a2011fd5-3944-4eeb-bcc0-7a99333b9ae9"/>
                 </node>
