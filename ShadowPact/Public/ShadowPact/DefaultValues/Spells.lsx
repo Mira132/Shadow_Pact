@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="0" minor="0" revision="0" build="1"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_EldritchBlast;Target_MinorIllusion"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="9f20499b-92dc-4eda-9736-8deddd2327f4"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Shout_ArmorOfAgathys;Target_Hex"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="7b845b20-6dcb-4855-a23a-3160f2471e66"/>
+                </node>
+                 <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_Hex"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="22950b3a-2aa2-4f6b-a793-d06989f8e354"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_MistyStep"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="3"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="d95e33c6-21de-4f97-8d03-289d683e235d"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_MageHand;Target_Darkness"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="4"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="ba5318be-e579-4b04-bb20-53206b4969cb"/>
+                </node>
+				<node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Zone_Fear"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="5"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="e622d02b-537e-4d30-a43d-5304ea34c2e6"/>
+                </node>
+				<node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_BestowCurse"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="6"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="bd24d6fd-4bea-429a-b5ca-bf8beaec7d2d"/>
+                    <attribute id="UUID" type="guid" value="f882ab7b-0080-430e-93b3-077e9b293f40"/>
+                </node>
+           </children>
+        </node>
+    </region>
+</save>

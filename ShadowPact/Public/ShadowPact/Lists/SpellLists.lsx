@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="0" minor="0" revision="0" build="1"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+
+                <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Shout_Shadow_Shroud"/>
+                    <attribute id="UUID" type="guid" value="8f123156-7ae1-4fe0-a6ba-ad1f5e906847"/>
+                </node> 
+                <node id="SpellList"> Shadows Lvl 1 Spells
+                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CauseFear;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="0c48b785-e964-4898-9897-fba975edbf52"/>
+                </node>
+				<node id="SpellList"> Shadows Lvl 2 Spells
+                    <attribute id="Spells" type="LSString" value="Shout_Blur;Shout_BorrowedKnowledge;Target_CloudOfDaggers;Projectile_Crackle;Target_CrownOfMadness;Target_Darkness;Shout_Enthrall;Target_FlockOfFamiliars;Target_HoldPerson;Target_Invisibility;Target_MindSpike;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Shout_ShadowBlade;Target_Shatter;Target_Suggestion;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CauseFear;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="d8842a8c-cd5e-4180-9644-bf1851e4a03f"/>
+                </node>	
+				<node id="SpellList"> Shadows Lvl 3 Spells
+                    <attribute id="Spells" type="LSString" value="Target_BestowCurse;Target_EnemiesAbound;Zone_Fear;Target_Fly;Target_HungerOfHadar;Target_HypnoticPattern;Target_IntellectFortress;Target_Nondetection;Target_RemoveCurse;Teleportation_ThunderStep;Shout_VampiricTouch;Shout_Blur;Shout_BorrowedKnowledge;Target_CloudOfDaggers;Projectile_Crackle;Target_CrownOfMadness;Target_Darkness;Shout_Enthrall;Target_FlockOfFamiliars;Target_HoldPerson;Target_Invisibility;Target_MindSpike;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Shout_ShadowBlade;Target_Shatter;Target_Suggestion;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CauseFear;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="34f23a30-31bc-4476-9bc6-fc5c44ef7356"/>
+                </node>	
+				<node id="SpellList"> Shadows Lvl 4 Spells
+                    <attribute id="Spells" type="LSString" value="Target_Banishment;Target_Blight;Target_CharmMonster;Target_Confusion;Target_FreedomOfMovement;Projectile_RaulothimsPsychicLance;Target_BestowCurse;Target_EnemiesAbound;Zone_Fear;Target_Fly;Target_HungerOfHadar;Target_HypnoticPattern;Target_IntellectFortress;Target_Nondetection;Target_RemoveCurse;Teleportation_ThunderStep;Shout_VampiricTouch;Shout_Blur;Shout_BorrowedKnowledge;Target_CloudOfDaggers;Projectile_Crackle;Target_CrownOfMadness;Target_Darkness;Shout_Enthrall;Target_FlockOfFamiliars;Target_HoldPerson;Target_Invisibility;Target_MindSpike;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Shout_ShadowBlade;Target_Shatter;Target_Suggestion;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CauseFear;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="f116bbea-58b2-45d6-a723-f66f27db27d5"/>
+                </node>	
+				<node id="SpellList"> Shadows Lvl 5 Spells
+                    <attribute id="Spells" type="LSString" value="Target_Smite_BanishingSmite;Target_Cloudkill;Target_FarStep;Target_HoldMonster;Projectile_NegativeEnergyFlood;Target_SteelWindStrike;Projectile_SynapticStatic;Target_Banishment;Target_Blight;Target_CharmMonster;Target_Confusion;Target_FreedomOfMovement;Projectile_RaulothimsPsychicLance;Target_BestowCurse;Target_EnemiesAbound;Zone_Fear;Target_Fly;Target_HungerOfHadar;Target_HypnoticPattern;Target_IntellectFortress;Target_Nondetection;Target_RemoveCurse;Teleportation_ThunderStep;Shout_VampiricTouch;Shout_Blur;Shout_BorrowedKnowledge;Target_CloudOfDaggers;Projectile_Crackle;Target_CrownOfMadness;Target_Darkness;Shout_Enthrall;Target_FlockOfFamiliars;Target_HoldPerson;Target_Invisibility;Target_MindSpike;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Shout_ShadowBlade;Target_Shatter;Target_Suggestion;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CauseFear;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Target_UnseenServant;Projectile_WitchBolt;Target_Smite_Wrathful"/>
+                    <attribute id="UUID" type="guid" value="65a5e6f1-3c2e-4749-ac19-ceff39764a56"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
